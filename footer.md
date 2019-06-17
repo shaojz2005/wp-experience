@@ -1,0 +1,1 @@
+# WordPress页脚模板footer.php
