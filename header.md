@@ -1,4 +1,4 @@
-# WordPress页头header.php
+# WordPress页头模板header.php
 
 header.php用于调用网页头需展示的内容，包括HTML的head声明内容以及公共的页头内容，如logo、顶部导航菜单等。
 
