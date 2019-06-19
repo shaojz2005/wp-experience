@@ -6,3 +6,5 @@
 - [WordPress模板结构](./theme_structure.md)
 - [WordPress模板层级机制](./template_hierarchy.md)
 - [WordPress模板默认样式文件](./theme_style.md)
+- [WordPress页头模板](./header.md)
+- [WordPress页脚模板](./footer.md)
